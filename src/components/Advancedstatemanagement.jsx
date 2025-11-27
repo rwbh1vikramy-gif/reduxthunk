@@ -32,7 +32,6 @@ console.log("this is advancedstate manage ment",state1.data)
 
 
     return (
-
 <>
 
 <h1>Redux thunk lecture</h1>
